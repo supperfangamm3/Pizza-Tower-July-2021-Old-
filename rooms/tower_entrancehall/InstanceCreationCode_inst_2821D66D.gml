@@ -1,0 +1,1 @@
+targetRoom = oldentrance_1

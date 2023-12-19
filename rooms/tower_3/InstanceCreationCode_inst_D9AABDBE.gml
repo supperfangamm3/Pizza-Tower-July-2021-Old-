@@ -1,0 +1,9 @@
+targetRoom = street_1;
+level = "space";
+sprite_index = spr_gate_street;
+bgsprite = spr_gate_streetBG;
+title_index = 0;
+title_sprite = spr_titlecards_title2;
+titlecard_index = 10;
+title_music = "event:/music/w3/spacetitle";
+group_arr = ["streetgroup"];
