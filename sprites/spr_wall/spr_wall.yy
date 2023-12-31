@@ -28,7 +28,7 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1cb03bc1-a880-4597-8808-a7d866190436",},
   ],
   "sequence": {
     "resourceType": "GMSequence",
@@ -45,7 +45,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"287fd934-d407-42ec-9b01-e1c01bde1faf","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0","path":"sprites/spr_wall/spr_wall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b54d57dd-9540-4b3a-a559-d7ce76770c0c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1cb03bc1-a880-4597-8808-a7d866190436","path":"sprites/spr_wall/spr_wall.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
@@ -64,7 +64,7 @@
     "eventStubScript": null,
   },
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"default","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"38024cd1-2c59-4992-8c45-142df630303a","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {

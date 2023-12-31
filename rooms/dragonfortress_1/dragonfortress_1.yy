@@ -1,0 +1,60 @@
+{
+  "resourceType": "GMRoom",
+  "resourceVersion": "1.0",
+  "name": "dragonfortress_1",
+  "isDnd": false,
+  "volume": 1.0,
+  "parentRoom": null,
+  "views": [
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+  ],
+  "layers": [
+    {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_1","tilesetId":{"name":"tileset_medieval","path":"tilesets/tileset_medieval/tileset_medieval.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":79,"SerialiseHeight":32,"TileCompressedData":[
+-1998,-2147483648,-2,0,-3,-2147483648,-3,0,-71,-2147483648,-2,0,-3,-2147483648,-3,0,-71,-2147483648,-2,0,-2,-2147483648,-4,0,-64,-2147483648,-3,0,-8,-2147483648,-4,0,-48,-2147483648,-26,12,-3,0,-75,-2147483648,-2,0,-131,-2147483648,],},"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7B6CB094","properties":[],"isDnd":false,"objectId":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":27.000002,"scaleY":3.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":928.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1575312F","properties":[],"isDnd":false,"objectId":{"name":"obj_exitgate","path":"objects/obj_exitgate/obj_exitgate.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":800.0,},
+      ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
+    {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Backgrounds_1","spriteId":{"name":"bg_dragonlair1","path":"sprites/bg_dragonlair1/bg_dragonlair1.yy",},"colour":4294967295,"x":0,"y":0,"htiled":true,"vtiled":true,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":0.2,"animationSpeedType":1,"userdefinedAnimFPS":false,"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
+    {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","spriteId":{"name":"bg_medieval3","path":"sprites/bg_medieval3/bg_medieval3.yy",},"colour":4294967295,"x":0,"y":0,"htiled":true,"vtiled":true,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
+  ],
+  "inheritLayers": false,
+  "creationCodeFile": "",
+  "inheritCode": false,
+  "instanceCreationOrder": [
+    {"name":"inst_7B6CB094","path":"rooms/dragonfortress_1/dragonfortress_1.yy",},
+    {"name":"inst_1575312F","path":"rooms/dragonfortress_1/dragonfortress_1.yy",},
+  ],
+  "inheritCreationOrder": false,
+  "sequenceId": null,
+  "roomSettings": {
+    "inheritRoomSettings": false,
+    "Width": 2500,
+    "Height": 998,
+    "persistent": false,
+  },
+  "viewSettings": {
+    "inheritViewSettings": false,
+    "enableViews": false,
+    "clearViewBackground": false,
+    "clearDisplayBuffer": true,
+  },
+  "physicsSettings": {
+    "inheritPhysicsSettings": false,
+    "PhysicsWorld": false,
+    "PhysicsWorldGravityX": 0.0,
+    "PhysicsWorldGravityY": 10.0,
+    "PhysicsWorldPixToMetres": 0.1,
+  },
+  "parent": {
+    "name": "Dragon's Fortress",
+    "path": "folders/Rooms/PT_JU2021/New Levels/Dragon's Fortress.yy",
+  },
+}
